@@ -1,0 +1,17 @@
+{
+  "A_trials": 9,
+  "unique_A_cases": 6,
+  "source_code_files": 12,
+  "witness_pair_returns_differ": true,
+  "witness_pair_target_origins_differ": true,
+  "original_run_kinds": [
+    "synthetic"
+  ],
+  "analysis_eligible_values": [
+    false
+  ],
+  "reference_status": [
+    "PROPOSED"
+  ],
+  "nature_of_proof": "For each A stimulus, two constructed implementations have the same displayed D/R but different answers; a counterexample proves non-invariance. This is a bounded class-and-case proof, not a general executable analyzer."
+}

@@ -1,0 +1,43 @@
+{
+  "version": "R27",
+  "origin": {
+    "first_archive": "Locked R24 certificate index; archived proposed source key not applied as an original grade",
+    "secondary_archive": "Companion 28-dossier evaluation, source-role subset from original audit",
+    "secondary_ledger_source": "Meshaal-Mouawad/LEAP-Paper2-Evidence/SCP_Replication/replication/audit/source_role_failure_ledger.json",
+    "secondary_original_github_blob_sha": "a9884a6b26b1fd1ce0de994d077c3c5dbe2e3d21",
+    "secondary_data_kind": "derived archival case ledger; reviewer rationales are prior records"
+  },
+  "evidence_axis": {
+    "archived_item_records": 135,
+    "prose_only_question_slots_T1_to_T4": 36,
+    "reference_applicable": 2,
+    "reference_inapplicable": 34,
+    "proposed_key_exact_matches": 8,
+    "exact_matches_without_applicable_reference": 6,
+    "exact_matches_with_applicable_reference": 2
+  },
+  "target_axis": {
+    "original_dossier_count": 28,
+    "source_role_majority_fail_documents": 16,
+    "checker_source_role_alert_documents": 4,
+    "matching_fail_document_labels": 2,
+    "matching_fail_labels_without_same_majority_defect_rationale": 2,
+    "checker_alerts_on_majority_pass_documents": 2,
+    "alerts_also_identified_by_reviewer_R3_and_source": 4,
+    "matching_fail_cases": [
+      "C09",
+      "C18"
+    ],
+    "discordant_majority_pass_cases": [
+      "C12",
+      "C27"
+    ]
+  },
+  "contract_outcomes": {
+    "first_archive_applicable": 2,
+    "first_archive_rejected": 34,
+    "second_archive_negative_target_certificates": 2,
+    "second_archive_unresolved_majority_pass": 2
+  },
+  "interpretation": "Two distinct reference-reuse boundary failures are demonstrated from preserved archival examples; neither is an estimate of general algorithmic performance."
+}

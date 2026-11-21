@@ -1,0 +1,5 @@
+case_id,majority_document_label,checker_document_label,nominal_fail_overlap,same_majority_defect_rationale,reviewer_R3_and_source_support_alert,reference_contract_decision_for_majority_as_exact_defect_oracle,original_case_summary
+C09,FAIL,FAIL,1,0,1,reject,Majority cited owner mismatch while checker flagged comment role; R3 identified checker role issue
+C12,PASS,FAIL,0,,1,unresolved,Checker flagged docstring misrepresented as output alias; R3 identified same source error
+C18,FAIL,FAIL,1,0,1,reject,Majority cited MFI formula/source mismatch while checker flagged comment/executable role; R3 identified checker issue
+C27,PASS,FAIL,0,,1,unresolved,Checker flagged FLOAT cast type described as result alias; R3 identified same issue

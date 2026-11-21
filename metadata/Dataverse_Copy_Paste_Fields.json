@@ -1,0 +1,27 @@
+{
+  "dataset_title": "Replication Data for: When KPI Verification References Cross Evidence and Defect Boundaries: Two Archival Audits",
+  "author_name": "Mouawad, Meshaal Obaid",
+  "author_affiliation": "Mississippi State University",
+  "dataset_contact_name": "Meshaal Obaid Mouawad",
+  "dataset_contact_email": "mm4922@msstate.edu",
+  "description": "Curated replication materials for two separate LEAP key performance indicator (KPI) software-verification archives. The first archive supports a retrospective audit of 36 questions under nine prose-only evidence presentations: 8 recorded responses match a proposed source-based key, while 2 comparisons have applicable references and supported matches. The accompanying materials include 12 constructed executable source examples across six cases, nine documentary readings, an item-level reference-applicability audit, and code to reproduce the curated counts. The second archive covers 28 KPI dossiers, with an 18-case source-role ledger and four source-specific checker alerts. For two dossiers, the checker and reviewer majority both recorded Fail while referring to different defects. The two source archives have distinct units and are not pooled. The complete-source key was proposed and not used for original grading. The data collector is credited as Hazem Alkhaiat, Columbia University, based on the author attribution. Source-origin descriptions from the preserved controller records and author attribution are retained separately in the provenance documentation. This public package contains curated derived evidence; original raw session events remain in the controlled research archive.",
+  "subject": "Computer and Information Science",
+  "contributor_name": "Alkhaiat, Hazem",
+  "contributor_type": "Data Collector",
+  "contributor_affiliation": "Columbia University",
+  "keywords": [
+    "software verification",
+    "KPI assessment",
+    "reference applicability",
+    "evidence sufficiency",
+    "test oracles",
+    "defect matching",
+    "reproducibility"
+  ],
+  "related_publication_title": "When KPI Verification References Cross Evidence and Defect Boundaries: Two Archival Audits",
+  "related_publication_authors": "Mouawad, Meshaal Obaid",
+  "notes": "Two separately evaluated archived KPI datasets. Curated derived results and scripts; original raw session records are retained in the controlled research archive.",
+  "language": "English",
+  "producer": "Mississippi State University",
+  "kind_of_data": "Derived item-level audit CSV, case-level audit CSV, source-pair programs, JSON results, reproducibility scripts and manuscript PDF"
+}

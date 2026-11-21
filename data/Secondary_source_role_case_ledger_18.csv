@@ -1,0 +1,19 @@
+case,majority_document_label,checker_document_label,majority_rationale_aligns_with_checker_defect,one_reviewer_identifies_checker_defect,source_evidence_supports_alert,archival_summary
+C01,FAIL,PASS,NA,NA,NA,Formula meaning / documentary comment role not in checker patterns
+C05,FAIL,PASS,NA,NA,NA,Metric meaning / executable role not in checker patterns
+C06,FAIL,PASS,NA,NA,NA,Documentary comment role / metric meaning
+C09,FAIL,FAIL,NO,YES,YES,Majority cited owner mismatch while checker flagged comment role; R3 identified checker role issue
+C10,FAIL,PASS,NA,NA,NA,Documentary comment role
+C12,PASS,FAIL,NA,YES,YES,Checker flagged docstring misrepresented as output alias; R3 identified same source error
+C13,FAIL,PASS,NA,NA,NA,Documentary role / metric meaning
+C14,FAIL,PASS,NA,NA,NA,Documentary role / metric meaning
+C15,FAIL,PASS,NA,NA,NA,Documentary role
+C16,FAIL,PASS,NA,NA,NA,Source system correspondence / documentary role
+C17,FAIL,PASS,NA,NA,NA,Formula provenance / documentary role
+C18,FAIL,FAIL,NO,YES,YES,Majority cited MFI formula/source mismatch while checker flagged comment/executable role; R3 identified checker issue
+C19,FAIL,PASS,NA,NA,NA,Data domain / owner / documentary role
+C23,FAIL,PASS,NA,NA,NA,Metric / formula correspondence
+C24,FAIL,PASS,NA,NA,NA,Documentary role / output calculation role
+C25,FAIL,PASS,NA,NA,NA,Documentary role
+C27,PASS,FAIL,NA,YES,YES,Checker flagged FLOAT cast type described as result alias; R3 identified same issue
+C28,FAIL,PASS,NA,NA,NA,Documentary role / metric meaning

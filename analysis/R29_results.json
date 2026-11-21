@@ -1,0 +1,72 @@
+{
+  "version": "R29",
+  "data_types": "two separate archival secondary analyses (never pooled)",
+  "protected_evidence_verification": {
+    "R17_manifest_entries_verified": 70,
+    "R22_manifest_entries_verified": 30,
+    "R24_certificate_entries": 135,
+    "executed_source_completions": 12,
+    "original_trial_count": 27,
+    "item_count": 135,
+    "original_run_kind": "synthetic in original controller manifest; author separately attributes collection to Hazem Alkhaiat",
+    "key_status": "PROPOSED_NOT_USED_BY_INSTRUMENT"
+  },
+  "source_view": {
+    "n_A_T1_T4": 36,
+    "proposed_key_matches": 8,
+    "reference_applicable_slots": 2,
+    "supported_matches": 2,
+    "matched_but_inapplicable": 6,
+    "unconstrained_supported_match_interval_given_only_n_m_a": [
+      0,
+      2
+    ],
+    "joint_counts": [
+      {
+        "key_match": 0,
+        "reference_applicable": 0,
+        "n": 28
+      },
+      {
+        "key_match": 1,
+        "reference_applicable": 0,
+        "n": 6
+      },
+      {
+        "key_match": 1,
+        "reference_applicable": 1,
+        "n": 2
+      }
+    ],
+    "all_presentations_T1_T4_key_matches": {
+      "A": 8,
+      "B": 36,
+      "C": 34
+    }
+  },
+  "defect_target": {
+    "original_dossiers": 28,
+    "reviewers": 3,
+    "criteria": 4,
+    "original_ratings": 336,
+    "majority_fail": 16,
+    "majority_pass": 12,
+    "checker_alert": 4,
+    "checker_no_alert": 24,
+    "label_crosstab": {
+      "checker_fail_majority_fail": 2,
+      "checker_fail_majority_pass": 2,
+      "checker_pass_majority_fail": 14,
+      "checker_pass_majority_pass": 10
+    },
+    "matching_fail_labels_with_same_majority_focal_defect": 0,
+    "matching_fail_labels_with_different_majority_focal_defect": 2,
+    "source_supported_alerts_also_named_by_R3": 4
+  },
+  "formal_properties": {
+    "negative_certificate_sound": true,
+    "reference_applicability_persists_under_consistent_evidence_refinement": true,
+    "aggregate_supported_match_bound_sharp": true
+  },
+  "publication_status": "offline manuscript and reproducible audit only"
+}

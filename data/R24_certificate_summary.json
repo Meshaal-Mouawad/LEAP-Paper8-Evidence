@@ -1,0 +1,14 @@
+{
+  "counts": {
+    "('A', 'constructive_nonidentifiability')": 36,
+    "('A', 'documentary_inspection')": 9,
+    "('B', 'not_assessed_for_reference_applicability')": 45,
+    "('C', 'not_assessed_for_reference_applicability')": 45
+  },
+  "checks": [
+    "135 indexed records",
+    "12 executed programs",
+    "9 source-limited display digests",
+    "9 display-local textual readings"
+  ]
+}

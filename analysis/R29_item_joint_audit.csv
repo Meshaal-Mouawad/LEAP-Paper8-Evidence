@@ -1,0 +1,37 @@
+trial_id,case_id,item,display_sha256,key_status,key_match,reference_applicable,certified_supported_match,contract_decision,certificate_type,trace
+SYN-FRESH-1:T01,K01,T1,6167d0cd16d44bcd47847a459ac5b1727a233c4e93e4ccce174043344fc38e87,PROPOSED,1,0,0,reject,source_pair_or_source_role_counterexample,K01
+SYN-FRESH-1:T01,K01,T2,6167d0cd16d44bcd47847a459ac5b1727a233c4e93e4ccce174043344fc38e87,PROPOSED,0,0,0,reject,display_local_T2_text,"D/R describe compound growth and function aliasing, without any of the three offered source-specific behaviors."
+SYN-FRESH-1:T01,K01,T3,6167d0cd16d44bcd47847a459ac5b1727a233c4e93e4ccce174043344fc38e87,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K01
+SYN-FRESH-1:T01,K01,T4,6167d0cd16d44bcd47847a459ac5b1727a233c4e93e4ccce174043344fc38e87,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K01
+SYN-FRESH-1:T02,K07,T1,24ed41e0d964d4cc56ec28ee18e4426bf63d7685ad7367608caa3cdf680af3e1,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K07
+SYN-FRESH-1:T02,K07,T2,24ed41e0d964d4cc56ec28ee18e4426bf63d7685ad7367608caa3cdf680af3e1,PROPOSED,0,0,0,reject,display_local_T2_text,"D/R provide the signed equation and mention the alternative sign convention, without a force_finite branch."
+SYN-FRESH-1:T02,K07,T3,24ed41e0d964d4cc56ec28ee18e4426bf63d7685ad7367608caa3cdf680af3e1,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K07
+SYN-FRESH-1:T02,K07,T4,24ed41e0d964d4cc56ec28ee18e4426bf63d7685ad7367608caa3cdf680af3e1,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K07
+SYN-FRESH-1:T03,K12,T1,3d212c11441ac34a9291d80034e4f9a88d815b7c9c20c612778243d30b931721,PROPOSED,1,0,0,reject,source_pair_or_source_role_counterexample,K12
+SYN-FRESH-1:T03,K12,T2,3d212c11441ac34a9291d80034e4f9a88d815b7c9c20c612778243d30b931721,PROPOSED,1,1,1,applicable,display_local_T2_text,"D/R describe the cutoff fraction and percentile, without the offered source-specific input guards."
+SYN-FRESH-1:T03,K12,T3,3d212c11441ac34a9291d80034e4f9a88d815b7c9c20c612778243d30b931721,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K12
+SYN-FRESH-1:T03,K12,T4,3d212c11441ac34a9291d80034e4f9a88d815b7c9c20c612778243d30b931721,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K12
+SYN-FRESH-2:T07,K03,T1,68cb5b8b78408011f7c9f6fb22e04b08048a414a8d04aaa0a3d207efda713401,PROPOSED,1,0,0,reject,source_pair_or_source_role_counterexample,K03
+SYN-FRESH-2:T07,K03,T2,68cb5b8b78408011f7c9f6fb22e04b08048a414a8d04aaa0a3d207efda713401,PROPOSED,0,0,0,reject,display_local_T2_text,"D/R state mean absolute error, without a finite-result replacement, residual filter or error branch."
+SYN-FRESH-2:T07,K03,T3,68cb5b8b78408011f7c9f6fb22e04b08048a414a8d04aaa0a3d207efda713401,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K03
+SYN-FRESH-2:T07,K03,T4,68cb5b8b78408011f7c9f6fb22e04b08048a414a8d04aaa0a3d207efda713401,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K03
+SYN-FRESH-2:T08,K09,T1,70ee7e623b53e8971ce9097de9bbea56fb4d888f75c596dfe675006fc6059ec4,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K09
+SYN-FRESH-2:T08,K09,T2,70ee7e623b53e8971ce9097de9bbea56fb4d888f75c596dfe675006fc6059ec4,PROPOSED,0,0,0,reject,display_local_T2_text,"D/R state the absolute-error-over-actual rule, without saying the executable applies the offered ratio test."
+SYN-FRESH-2:T08,K09,T3,70ee7e623b53e8971ce9097de9bbea56fb4d888f75c596dfe675006fc6059ec4,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K09
+SYN-FRESH-2:T08,K09,T4,70ee7e623b53e8971ce9097de9bbea56fb4d888f75c596dfe675006fc6059ec4,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K09
+SYN-FRESH-2:T09,K12,T1,3d212c11441ac34a9291d80034e4f9a88d815b7c9c20c612778243d30b931721,PROPOSED,1,0,0,reject,source_pair_or_source_role_counterexample,K12
+SYN-FRESH-2:T09,K12,T2,3d212c11441ac34a9291d80034e4f9a88d815b7c9c20c612778243d30b931721,PROPOSED,1,1,1,applicable,display_local_T2_text,"D/R describe the cutoff fraction and percentile, without the offered source-specific input guards."
+SYN-FRESH-2:T09,K12,T3,3d212c11441ac34a9291d80034e4f9a88d815b7c9c20c612778243d30b931721,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K12
+SYN-FRESH-2:T09,K12,T4,3d212c11441ac34a9291d80034e4f9a88d815b7c9c20c612778243d30b931721,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K12
+SYN-FRESH-3:T04,K07,T1,24ed41e0d964d4cc56ec28ee18e4426bf63d7685ad7367608caa3cdf680af3e1,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K07
+SYN-FRESH-3:T04,K07,T2,24ed41e0d964d4cc56ec28ee18e4426bf63d7685ad7367608caa3cdf680af3e1,PROPOSED,0,0,0,reject,display_local_T2_text,"D/R provide the signed equation and mention the alternative sign convention, without a force_finite branch."
+SYN-FRESH-3:T04,K07,T3,24ed41e0d964d4cc56ec28ee18e4426bf63d7685ad7367608caa3cdf680af3e1,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K07
+SYN-FRESH-3:T04,K07,T4,24ed41e0d964d4cc56ec28ee18e4426bf63d7685ad7367608caa3cdf680af3e1,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K07
+SYN-FRESH-3:T05,K01,T1,6167d0cd16d44bcd47847a459ac5b1727a233c4e93e4ccce174043344fc38e87,PROPOSED,1,0,0,reject,source_pair_or_source_role_counterexample,K01
+SYN-FRESH-3:T05,K01,T2,6167d0cd16d44bcd47847a459ac5b1727a233c4e93e4ccce174043344fc38e87,PROPOSED,0,0,0,reject,display_local_T2_text,"D/R describe compound growth and function aliasing, without any of the three offered source-specific behaviors."
+SYN-FRESH-3:T05,K01,T3,6167d0cd16d44bcd47847a459ac5b1727a233c4e93e4ccce174043344fc38e87,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K01
+SYN-FRESH-3:T05,K01,T4,6167d0cd16d44bcd47847a459ac5b1727a233c4e93e4ccce174043344fc38e87,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K01
+SYN-FRESH-3:T06,K11,T1,6bb5d9fce1d16d6bf6dd1e2f08a7d152e9c142fd788cbc1edc212c30a0a5032d,PROPOSED,1,0,0,reject,source_pair_or_source_role_counterexample,K11
+SYN-FRESH-3:T06,K11,T2,6bb5d9fce1d16d6bf6dd1e2f08a7d152e9c142fd788cbc1edc212c30a0a5032d,PROPOSED,0,0,0,reject,display_local_T2_text,"D/R state the upper-index formula, without any of the offered skip_normality_test behaviors."
+SYN-FRESH-3:T06,K11,T3,6bb5d9fce1d16d6bf6dd1e2f08a7d152e9c142fd788cbc1edc212c30a0a5032d,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K11
+SYN-FRESH-3:T06,K11,T4,6bb5d9fce1d16d6bf6dd1e2f08a7d152e9c142fd788cbc1edc212c30a0a5032d,PROPOSED,0,0,0,reject,source_pair_or_source_role_counterexample,K11

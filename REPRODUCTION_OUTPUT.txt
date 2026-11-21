@@ -1,0 +1,44 @@
+exit_code=0
+STDOUT:
+{
+  "status": "PASS",
+  "record_count": 135,
+  "prose_only_subset": 36,
+  "reference_applicable": 2,
+  "reference_not_applicable": 34,
+  "proposed_matches": 8,
+  "matches_without_applicability": 6,
+  "source_role_fail_majority": 16,
+  "source_role_checker_alerts": 4,
+  "nominal_fail_fail_mismatched_defects": 2,
+  "majority_pass_checker_fail": 2,
+  "executed_source_pair_cases": {
+    "K01": [
+      0.21,
+      0.1
+    ],
+    "K07": [
+      -0.2,
+      0.2
+    ],
+    "K12": [
+      -0.1,
+      0.0
+    ],
+    "K03": [
+      1.5,
+      2.5
+    ],
+    "K09": [
+      1.0,
+      0.5
+    ],
+    "K11": [
+      1.0,
+      2.0
+    ]
+  }
+}
+
+STDERR:
+

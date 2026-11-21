@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the linked Harvard Dataverse dataset."
+title: "LEAP Paper 8: Evidence and Replication for Two Archival Audits"
+authors:
+  - family-names: Mouawad
+    given-names: Meshaal
+doi: 10.7910/DVN/DC2FOK
+url: https://doi.org/10.7910/DVN/DC2FOK
+type: dataset
