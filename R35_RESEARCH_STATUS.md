@@ -1,23 +1,14 @@
-# LEAP Paper 8 — R35 Research Status
+# LEAP Paper 8 — Research Status
 
-Manuscript: Which Corrections Counted Then? Reconstructing Verification References Across Software Revisions
+Final research version: R35-W9
+Journal: Science of Computer Programming
+Status: Submitted
+Submission date: November 24, 2026
+
+The final manuscript and curated supplementary evidence
+are available in this repository.
 
 Harvard Dataverse DOI:
 https://doi.org/10.7910/DVN/DC2FOK
 
-The current Dataverse draft contains the R29A replication archive.
-
-R35 adds historical RFC errata, publisher-page comparisons,
-and version-specific software verification evidence.
-
-Key results:
-- 6,772 matched historical errata records.
-- 294 additional inclusions and one omission.
-- Six previously processed status changes.
-- 12/12 held-out publisher pages reconstructed by dated status.
-- 19 additional corrections included by the current-status filter.
-
-Scientific status:
-R35-V1 independent evidence verification is pending.
-
-The private R35 research archive is not publicly released.
+Earlier research versions remain preserved in Git history.

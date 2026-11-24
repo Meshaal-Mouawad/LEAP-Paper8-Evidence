@@ -1,33 +1,36 @@
-# LEAP Paper 8 — Evidence and Replication (R29A)
+# LEAP Paper 8 — Research Evidence and Replication
 
-**Paper:** When KPI Verification References Cross Evidence and Defect Boundaries: Two Archival Audits  
-**Author:** Meshaal Mouawad  
-**Harvard Dataverse DOI:** https://doi.org/10.7910/DVN/DC2FOK (dataset currently draft/in review according to account listing dated 2026-11-21)
+## Which RFC Corrections Counted Then? Reconstructing Historical Verification References
 
-This repository provides the curated derived replication evidence for **two distinct archival audits**. The audits have different units of analysis and are not pooled.
+Author: Meshaal Obaid Mouawad
+Institution: Mississippi State University
+Journal: Science of Computer Programming
+Article type: Research Paper
+Submitted: November 24, 2026
 
-## Reproduce
+## Research materials
 
-```bash
-python3 code/reproduce_curated.py
-```
+- [Final submitted manuscript](manuscript/LEAP_Paper8_Final_Manuscript.pdf)
+- [Supplementary material](supplementary/LEAP_Paper8_Supplementary_Material.zip)
+- Harvard Dataverse: https://doi.org/10.7910/DVN/DC2FOK
 
-## Organization
+## Reproducibility
 
-- `analysis/`: item-level and alert-target audits, result summary, reference-applicability logic
-- `code/`: reproduction script and twelve executable constructed witnesses
-- `data/`: documentary readings, source pairs, reference certificates, and second-archive ledger
-- `documentation/`: R29A manuscript PDF
-- `metadata/`: attribution, provenance, Dataverse metadata
+The supplementary archive contains historical RFC records,
+publisher-page evidence, experimental results, source code,
+figure data and reproduction instructions.
 
-## Attribution and evidence boundaries
+Earlier supporting archival analyses are retained in
+the analysis, code and data directories.
 
-Meshaal Mouawad is the manuscript author. Hazem Alkhaiat is credited in dataset metadata as Data Collector. The first archive's proposed source-based key was not used in original grading. The primary raw event records remain in a controlled research archive and are not distributed here. See `metadata/Provenance.md` for source-origin details.
+## Attribution
 
-## Citation
+Meshaal Obaid Mouawad is the sole manuscript author.
+Hazem Alkhaiat is credited for data collection in the
+supporting archival research.
 
-Cite the Harvard Dataverse dataset DOI above after its publication. The repository is a companion for code and versioned evidence, not a replacement for the dataset DOI.
+## Release status
 
-## Release state
-
-R29A GitHub staging package. Check the final GitHub commit and the published Dataverse version before citing a specific release.
+Manuscript submitted on November 24, 2026.
+The final research supplement is available in this repository.
+Dataverse synchronization remains pending confirmation.

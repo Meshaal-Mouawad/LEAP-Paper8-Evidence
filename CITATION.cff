@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-message: "Please cite the linked Harvard Dataverse dataset."
-title: "LEAP Paper 8: Evidence and Replication for Two Archival Audits"
+message: "Please cite the associated research and dataset."
+title: "Which RFC Corrections Counted Then? Reconstructing Historical Verification References"
 authors:
   - family-names: Mouawad
-    given-names: Meshaal
+    given-names: Meshaal Obaid
 doi: 10.7910/DVN/DC2FOK
-url: https://doi.org/10.7910/DVN/DC2FOK
+url: https://github.com/Meshaal-Mouawad/LEAP-Paper8-Evidence
 type: dataset
